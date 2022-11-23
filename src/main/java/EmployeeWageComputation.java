@@ -79,7 +79,8 @@ int switchcase() {
 
 //public static void main(String[] args) {
 	//EmployeeWageComputation Emp = new EmployeeWageComputation();
-	 //System.out.println(Emp.switchcase());
+	// System.out.println(Emp.switchcase());
+
 
 //UC-5----------------
 	void employeeMonthlyWage() {
@@ -113,4 +114,6 @@ int switchcase() {
 		EmployeeWageComputation Emp = new EmployeeWageComputation();
 		Emp.employeeMonthlyWage();
 	}
-	}
+}
+
+	
